@@ -1,0 +1,81 @@
+body{
+    background-color: #F4D04E;
+    font-family: "Figtree", sans-serif;
+}
+.container{
+  
+    background-color:#FFFFFF ;
+    width:400px;
+    height:auto;
+    padding-bottom: 24px;
+    margin:50px auto;
+    border-radius: 15px;
+    border:1px solid black;
+    box-shadow:8px 8px 0px 0px black ;
+  
+
+}
+#card-img{
+    margin:24px;
+    border-radius: 15px;
+    width:calc(100% - 48px);/* Forces image to fit perfectly with the margins */
+    display: block;
+}
+
+figcaption{
+    padding:3px;
+    margin-left: 30px;
+    margin-top: 0;
+    background-color: #F4D04E;
+    width:70px;
+    height: 20px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+} 
+p{
+    font-size: 12px;
+    margin-left: 30px;
+    
+    
+}
+.card-content{
+    text-align: left;
+    
+}
+.p2{
+    font-weight: bold;
+    color: #6b6b6b;
+    font-size: 16px;
+   line-height: 25px;
+   margin-top: 10px;
+}
+h2{
+margin-left: 30px;
+margin-bottom: 0px;
+color:black;
+transition: color 0.2s ease-in-out;
+
+}
+h2:hover{
+    color: #F4D04E;
+    cursor: pointer;
+}
+.card-logo{
+  display: flex;
+  align-items: center; /* This aligns them vertically */
+  gap: 12px;           /* This creates the space between them */
+  margin-top: 20px;    /* Adds space above the footer section */
+}
+#profile-img{
+    margin-left: 30px;
+    width:30px;
+    height: 30px;
+    
+}
+#profile-name{
+    font-weight: bold; 
+    font-size: 14px;    /* Optional: sets a clean size for the name */
+    
+}
