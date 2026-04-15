@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot1.jpg)
+![the screenshot for the solution](screenshot/screenshot1.jpg)
 
 
 ### Links
