@@ -16,7 +16,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 At first, I thought it would be difficult and I wouldn't be able to complete it on my own, but when I started working on it, I realized how easy it is when you try to find solutions and correct mistakes yourself, and how enjoyable and satisfying it is to see the final result. It's not professional, but it's close, at least. I really love this challenge, and I will work on developing myself further and return to do it in a more professional way, God willing.
@@ -35,9 +35,9 @@ At first, I thought it would be difficult and I wouldn't be able to complete it 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Eathoo88/Blog-preview-card)
+- Solution URL: [https://github.com/Eathoo88/Blog-preview-card](https://github.com/Eathoo88/Blog-preview-card)
 
-- Live Site URL: [Add live site URL here](https://eathoo88.github.io/Blog-preview-card/)
+- Live Site URL: [https://eathoo88.github.io/Blog-preview-card/](https://eathoo88.github.io/Blog-preview-card/)
 
 
 
@@ -72,8 +72,8 @@ I really want to learn flexbox more specifically, and learn how to make web page
 
 ### Useful resources
 
-- [Example resource 1](https://www.freecodecamp.org/) - This helped me learn the basics of the  HTML and CSS.
-- [Example resource 2](https://www.w3schools.com/) - This is also a good website to learn a new feature or to find how to code something that you don't remember.
+- [https://www.freecodecamp.org/] - This helped me learn the basics of the  HTML and CSS.
+- [https://www.w3schools.com/] - This is also a good website to learn a new feature or to find how to code something that you don't remember.
 
 
 ### AI Collaboration
